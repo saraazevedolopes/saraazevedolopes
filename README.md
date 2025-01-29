@@ -73,5 +73,5 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saraazevedolopes&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saraazevedolopes&" alt="GitHub Streak" />
 </p>
