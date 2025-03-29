@@ -69,6 +69,11 @@
   </a>
 </p>
 
+<p align="right">
+  <sub>Counting cats 🐾</sub><br>
+  <img src="https://komarev.com/ghpvc/?username=saraazevedolopes&style=flat-square&color=lightgrey" alt="Profile views counter"/>
+</p>
+
 ---
 
 <h3 align="left">📊 GitHub Stats:</h3>
